@@ -49,4 +49,4 @@ deploy:
 notifications:
   email:
     recipients:
-      - 'hyeogi5870@gmail.com'
+      - hyeogi5870@gmail.com
